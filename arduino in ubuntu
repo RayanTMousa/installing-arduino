@@ -1,0 +1,7 @@
+ While using ubuntu
+
+- open the browser and go to www.arduino.cc/en/main/software , then choose linux 64 bits.
+- after the download is finished , extract the file
+- open Terminal , write ( cd arduino ) then ( ls )
+- you will get the folders , copy install.sh and in new line write (sudo ./install.sh)
+- then arduino will be installed in your ubuntu.
